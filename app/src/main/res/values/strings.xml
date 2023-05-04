@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UjangApps</string>
+    <string name="name_"></string>
+    <!--    Buat Dropdown yang ada di bagian 3 -->
+    <string-array name="kelas">
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>Eksekutif</item>
+    </string-array>
+
+    <string-array name="penumpang">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="bayi">
+        <item>Select</item>
+        <item>0 Bayi</item>
+        <item>1 Bayi</item>
+        <item>2 Bayi</item>
+        <item>3 Bayi</item>
+        <item>4 Bayi</item>
+        <item>5 Bayi</item>
+    </string-array>
+
+    <string name="gender_L">Laki-Laki</string>
+    <string name="gender_P">Perempuan</string>
+</resources>
